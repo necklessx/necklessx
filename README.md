@@ -159,8 +159,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-----
-Credit: [necklessx](https://github.com/necklessx)
-
-Last Edited on: 20/05/2022
+https://discord.com/users/552213571984162846
