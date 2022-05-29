@@ -1,5 +1,5 @@
 ### Hello World, I'm Neckless :purple_heart:
-<img alt="GIF" src="[https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif](https://media0.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif?cid=ecf05e478xqh3u9f4c8jy0ub3chbgt0dd32ywxkx2decpfc2&rid=giphy.gif)" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
 #### I am a discord bot developer with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
