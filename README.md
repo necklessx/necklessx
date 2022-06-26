@@ -4,6 +4,10 @@
 -----
 #### I am a discord bot developer with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
+[Contact me](https://discord.com/users/552213571984162846)
+
+
+
 ### My skills :woman_technologist:
 - **Competitive Coding**
 <table>
